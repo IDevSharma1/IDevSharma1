@@ -8,7 +8,7 @@
 - ⚡ Fun Fact: I enjoy blending **clean code** with **creative design** to craft impactful solutions.
 
 ### 📫 How to reach me:
-- **Email**: devsharma@gmail.com
+- **Email**: devsharma9979@gmail.com
 - **LinkedIn**: [Connect with me](https://linkedin.com/in/idevsharma)
 - **GitHub**: [IDevSharma1](https://github.com/IDevSharma1)
 - **Instagram**: [Follow me](https://www.instagram.com/idevsharma_/)
