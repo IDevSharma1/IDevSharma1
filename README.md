@@ -1,20 +1,22 @@
 # 💫 About Me:
 ### 👋 Hi there! I’m **Dev Sharma** 
-- 🔭 I’m currently interning at **OpenSource**.
-- 🌱 I’m actively learning **Data Analytics**, **Backend Development**, and **AI Chatbots**.
-- 👀 I’m passionate about **Full Stack Development**, **Data Science**, and **Open Source**.
-- 💞️ I’m looking to collaborate on **exciting projects** and innovative **tech solutions**.
-- ⚡ Fun Fact: I'm a **coding enthusiast** who loves exploring new technologies!
+- 🎓 Pursuing **B.E. in Computer Science** at College of Engineering & Technology, Akola (2022–2026).
+- 💻 Skilled in **Python (Flask, Pandas)**, **JavaScript**, **Node.js**, **MySQL**, and **MongoDB**.
+- 🚀 Passionate about **Full Stack Development**, **Cloud Computing**, and **Open Source**.
+- 🛠️ Experienced in building **APIs**, **automation tools**, and **responsive web applications**.
+- 🌱 Currently exploring **MERN stack** and **Google Cloud**.
+- ⚡ Fun Fact: I enjoy blending **clean code** with **creative design** to craft impactful solutions.
 
 ### 📫 How to reach me:
 - **Email**: devsharma@gmail.com
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/dev-sharma-67242b258)
+- **LinkedIn**: [Connect with me](https://linkedin.com/in/idevsharma)
+- **GitHub**: [IDevSharma1](https://github.com/IDevSharma1)
 - **Instagram**: [Follow me](https://www.instagram.com/idevsharma_/)
 
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-sharma-67242b258) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/idevsharma) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/idevsharma_/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IDevSharma1)
 
@@ -28,17 +30,10 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 🚀 Tools & Platforms:
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -56,17 +51,12 @@
 
 ---
 
-## 🔝 Top Contributed Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IDevSharma1&repo=Task-Management-System&theme=radical)](https://github.com/IDevSharma1/Task-Management-System)
+## 👨‍💻 Highlighted Projects:
+- **DataAnalyzer** – Python-based data processing tool using Pandas & Matplotlib.  
+- **Nazario UI Project** – Responsive Bootstrap website with dynamic content sections.  
+- **MERN Chat App** – Real-time chat platform with authentication and WebSocket connections.  
 
 ---
 
-## 👨‍💻 My Projects:
-- **Task Management System**: [Repo Link](https://github.com/IDevSharma1/Task-Management-System)
-- **Python Chatbot Project**: Coming Soon...
-
----
-
-## 🛠️ Let's Connect and Build Amazing Things Together!
+## 🛠️ Let’s Connect & Build Together!
 [![Visitor Badge](https://visitcount.itsvg.in/api?id=IDevSharma1&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
